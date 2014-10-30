@@ -1,0 +1,16 @@
+{
+  "name": "css3-menus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/quipu/AngularJSTestingFS",
+  "authors": [
+    "Greg Elisara <gregelisara@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
